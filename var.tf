@@ -3,7 +3,7 @@ variable "security_groups" {
 }
 
 variable "ami_id" {
-  default = ["ami-09c813fb71547fc4f"]
+  default = ["ami-04b6b6f9233187022"]
 }
 
 variable "components" {
